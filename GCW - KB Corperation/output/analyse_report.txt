@@ -1,0 +1,7 @@
+le vocabulaire analyse rapport
+vocabulaire nombre:64
+toxic nombre:2
+unique words:56
+toxic pourcentage:3.13%
+lexical diversity:0.88
+average word length:5.64
